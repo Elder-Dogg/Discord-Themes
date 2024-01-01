@@ -24,7 +24,7 @@
 	--accent-text-color: rgb(132, 181, 221); /*	-	*/
 
 	--sidebar-color: rgba(0, 0, 0, 0.85);
-	--main-content-color: rgba(0, 0, 0, 0.7); /*	-	*/
+	--main-content-color: rgba(0, 0, 0, 0.75); /*	-	*/
 
 	--message-color: rgba(90, 143, 143, 0.2);
 	--message-radius: 8px;
