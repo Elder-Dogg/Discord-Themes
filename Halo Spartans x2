@@ -12,7 +12,7 @@
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/Synthwave84/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/1072855681004224592/1188945756292386926/halo-dark-clouds.webp?ex=659c5f05&is=6589ea05&hm=c6f0886e8eb0c7ddb315ff214eba6bb0650b024feefc1bb15b819bfdd6565e84&);
+	--app-bg: url(w.wallhaven.cc/full/39/wallhaven-39emp3.jpg);
 	--app-blur: 1px;
 	--app-margin: 25px;
 	--app-radius: 8px; /*	-	*/
