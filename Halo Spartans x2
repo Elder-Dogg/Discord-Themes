@@ -21,7 +21,7 @@
 	--accent-saturation: 53%;
 	--accent-lightness: 23%;
 	--accent-opacity: 1;
-	--accent-text-color: rgb(132, 181, 221); /*	-	*/
+	--accent-text-color: rgb(13, 13, 14); /*	-	*/
 
 	--sidebar-color: rgba(0, 0, 0, 0.85);
 	--main-content-color: rgba(0, 0, 0, 0.75); /*	-	*/
