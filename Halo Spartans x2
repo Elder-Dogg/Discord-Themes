@@ -1,11 +1,7 @@
 /**
- * @name Dogg's Theme
- * @version 1.0
+ * @name Halo Spartans
  * @description A translucent/frosted glass Discord theme
- * @author MrNobody
  *
- * @source https://discord.gg/Vt6uvTgzam
- * @invite Vt6uvTgzam
  */
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
