@@ -20,7 +20,7 @@
 	--accent-text-color: rgb(13, 13, 14); /*	-	*/
 
 	--sidebar-color: rgba(0, 0, 0, 0.55);
-	--main-content-color: rgba(222, 222, 222, 1); /*	-	*/
+	--main-content-color: rgba(0, 0, 0, 0.55); /*	-	*/
 
 	--message-color: rgba(90, 143, 143, 0.2);
 	--message-radius: 8px;
