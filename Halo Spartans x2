@@ -32,7 +32,7 @@
 	--reply-lightness: 77%;
 	--reply-opacity: 1; /*	-	*/
 
-	--textarea-color: 200, 255, 255;
+	--textarea-color: rgb(200, 255, 255);
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #ffffff00;
