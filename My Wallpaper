@@ -15,7 +15,7 @@
 
 	#
 	
-	--accent-hue: 287, 100, 56;
+	--accent-hue: 287;
 	--accent-saturation: 2%;
 	--accent-lightness: 67%;
 	--accent-opacity: 1;
