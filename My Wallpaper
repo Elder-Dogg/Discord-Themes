@@ -17,22 +17,30 @@
 	--accent-saturation: 2%;
 	--accent-lightness: 67%;
 	--accent-opacity: 1;
-	--accent-text-color: rgb(255, 100, 100); /*	-	*/
+	--accent-text-color: rgb(203, 71, 218); 
+	
+	#Accent text is stuff like server names when hovering on the icon
 
-	--sidebar-color: rgba(0, 0, 0, 0.55);
-	--main-content-color: rgba(0, 0, 0, 0.55); /*	-	*/
+	--sidebar-color: rgba(0, 0, 0, 0.75);
+	--main-content-color: rgba(0, 0, 0, 0.75); 
+
+	#Main is where text shows up Sidebar is beside the main area
 
 	--message-color: rgba(90, 143, 143, 0.2);
 	--message-radius: 8px;
-	--message-padding-top: 8px;
-	--message-padding-side: 8px; /*	-	*/
+	--message-padding-top: 4px;
+	--message-padding-side: 4px; 
+
+	#Message is 
 	
-	--reply-hue: 202;
+	--reply-hue: rgb(255, 100, 100);
 	--reply-saturation: 55%;
 	--reply-lightness: 77%;
 	--reply-opacity: 1; /*	-	*/
 
-	--textarea-color: rgb(200, 255, 255);
+	
+
+	--textarea-color: rgb(255, 100, 100);
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #778de6;
