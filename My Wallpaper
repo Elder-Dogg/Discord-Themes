@@ -11,7 +11,9 @@
 	--app-bg: url(https://cdn.bhdw.net/im/night-fantasy-art-wallpaper-83045_w635.webp);
 	--app-blur: 1px;
 	--app-margin: 25px;
-	--app-radius: 8px; /*	-	*/
+	--app-radius: 8px; 
+
+	#
 	
 	--accent-hue: 202;
 	--accent-saturation: 2%;
@@ -36,25 +38,34 @@
 	--reply-hue: rgb(255, 100, 100);
 	--reply-saturation: 55%;
 	--reply-lightness: 77%;
-	--reply-opacity: 1; /*	-	*/
+	--reply-opacity: 1; 
 
-	
+	# 
 
 	--textarea-color: rgb(255, 100, 100);
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #778de6;
-	--textarea-radius: 22px;  /*	-	*/
+	--textarea-radius: 22px;  
 
+	#
+	
 	--card-color: rgba(0, 0, 0, 0.425);
 	--card-color-hover: rgba(0, 0, 0, 0.336);
-	--card-color-select: rgba(0, 0, 0, 0.356); /*	-	*/
+	--card-color-select: rgba(0, 0, 0, 0.356); 
+
+	#
 
 	--interactive-normal: #ddcece;
 	--interactive-hover: #aaa8a8d7;
 	--interactive-active: #ffffff;
-	--interactive-muted: #777777; /*	-	*/
+	--interactive-muted: #777777; 
+
+	#
 
 	--background-modifier-hover: rgb(44, 96, 163);
 	--background-modifier-selected: rgba(0, 110, 255, 0.911);
+	
+	#
+
 }
