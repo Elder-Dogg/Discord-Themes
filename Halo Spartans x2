@@ -8,7 +8,7 @@
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/Synthwave84/css/source.css);
 
 :root {
-	--app-bg: url(https://w.wallhaven.cc/full/39/wallhaven-39emp3.jpg);
+	--app-bg: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.besthdwallpaper.com%2Ffantasy%2Fnight-fantasy-art-dt_en-US-83045.html&psig=AOvVaw0tXnvlqsaRFpQwWcubc787&ust=1707092426437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCA-v60kIQDFQAAAAAdAAAAABAJ);
 	--app-blur: 1px;
 	--app-margin: 25px;
 	--app-radius: 8px; /*	-	*/
