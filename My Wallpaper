@@ -15,7 +15,7 @@
 
 	#
 	
-	--accent-hue: 287, 100%, 56%;
+	--accent-hue: 287, 100, 56;
 	--accent-saturation: 2%;
 	--accent-lightness: 67%;
 	--accent-opacity: 1;
@@ -42,7 +42,7 @@
 
 	# 
 
-	--textarea-color: rgb(255, 100, 100);
+	--textarea-color: 255, 100, 100;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #778de6;
