@@ -15,7 +15,7 @@
 
 	#
 	
-	--accent-hue: rgb(255, 100, 100);
+	--accent-hue: 372;
 	--accent-saturation: 2%;
 	--accent-lightness: 67%;
 	--accent-opacity: 1;
