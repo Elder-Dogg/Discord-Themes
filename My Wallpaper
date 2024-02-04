@@ -21,8 +21,8 @@
 	
 	#Accent text is stuff like server names when hovering on the icon
 
-	--sidebar-color: rgba(0, 0, 0, 0.75);
-	--main-content-color: rgba(0, 0, 0, 0.75); 
+	--sidebar-color: rgba(0, 0, 0, 0.5);
+	--main-content-color: rgba(0, 0, 0, 0.5); 
 
 	#Main is where text shows up Sidebar is beside the main area
 
